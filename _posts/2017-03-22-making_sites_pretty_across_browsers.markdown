@@ -9,7 +9,7 @@ I just finished up my HTML/CSS portion of the Online Developer Program. As a for
 
 * Declare your [doctype](https://www.w3schools.com/tags/tag_doctype.asp)
 * Validate your [HTML](https://validator.w3.org/) & [CSS](https://jigsaw.w3.org/css-validator/)
-* Use feature/behavior detection like [Normalize](http://nicolasgallagher.com/about-normalize-css/) or [Modernize](https://modernizr.com/) in your code
+* Use feature/behavior detection like [Normalize](http://nicolasgallagher.com/about-normalize-css/) or [Modernizr](https://modernizr.com/) in your code
 * Test across multiple browsers with [testing tools](http://mashable.com/2014/02/26/browser-testing-tools/#Qw6vvOQKsuqp)
 * Check your site visitor's browser preferences and prioritize the top browsers for manual testing and fixing (global stats can be found [here](https://www.w3counter.com/globalstats.php))
 * Use the CSS box model with the [`box-sizing` property](https://css-tricks.com/box-sizing/)
